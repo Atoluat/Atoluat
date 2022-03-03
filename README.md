@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Atoluat 
+- 👋 Hi, I’m @AhmetTahaÖzcan
 - 👀 I’m interested in Cyber Security and AI
 - 🌱 I’m currently learning Computer Vision
 - 💞️ I’m looking to collaborate on ...
